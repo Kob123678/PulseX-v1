@@ -1,7 +1,7 @@
 # Important!
-- Use this executor on alt account if don't get ban
-- This Executor have no virus
-- API is not by me that mean API may not 100% safe
+- Use this executor on alt account if don't want get ban.
+- This Executor have no virus.
+- API is not by me that mean API may not 100% safe.
 
 ---
 # Open Source
