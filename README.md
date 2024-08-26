@@ -1,3 +1,13 @@
+# Important!
+- Use this executor on alt account if don't get ban
+- This Executor have no virus
+- API is not by me that mean API may not 100% safe
+
+---
+# Open Source
+https://www.mediafire.com/file/qhi1pancs122jqu/PulseX_Source.rar/file
+
+---
 # PulseX 1.0
 https://www.mediafire.com/file/8xxpnyhua13rpf8/PulseX_v1.zip/file
 
