@@ -1,7 +1,7 @@
 # Important!
 - Use this executor on alt account if don't want get ban.
-- This Executor have no virus.
-- API is not by me that mean API may not 100% safe.
+- This Executor maybe have virus because API is not by me.
+- I got API from [moo exploits](https://www.youtube.com/@mooexploits).
 
 ---
 # Open Source
