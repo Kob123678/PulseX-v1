@@ -2,7 +2,8 @@
 - This Executor is Patched!
 - Use this executor on alt account if don't want get ban.
 - This Executor maybe have virus because API is not by me.
-- I got API from [moo exploits](https://www.youtube.com/@mooexploits).
+- I got API Called Star API from [moo exploits](https://www.youtube.com/@mooexploits).
+- i feel like this API is look like WeAreDevs API.
 
 ---
 # Open Source
