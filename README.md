@@ -1,5 +1,5 @@
 # Important!
-- This Executor is Patched
+- This Executor is Patched!
 - Use this executor on alt account if don't want get ban.
 - This Executor maybe have virus because API is not by me.
 - I got API from [moo exploits](https://www.youtube.com/@mooexploits).
