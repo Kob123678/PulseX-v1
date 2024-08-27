@@ -5,7 +5,13 @@
 
 ---
 # Open Source
-https://www.mediafire.com/file/x6ppc9pzfn0lt91/PulseX_Source.rar/file
+https://www.mediafire.com/file/yhnjq9xzdrjo2zl/PulseX_Source.rar/file
+
+---
+# PulseX 1.2
+- Fixed Monaco Editor
+
+https://www.mediafire.com/file/lbchod1yvhz0184/PulseX_1.2.rar/file
 
 ---
 # PulseX 1.1
