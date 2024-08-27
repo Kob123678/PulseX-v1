@@ -10,7 +10,7 @@
 https://www.mediafire.com/file/yhnjq9xzdrjo2zl/PulseX_Source.rar/file
 
 ---
-# PulseX 1.2 (Lastest)
+# PulseX 1.2 (Latest)
 - Fixed Monaco Editor
 
 https://www.mediafire.com/file/lbchod1yvhz0184/PulseX_1.2.rar/file
